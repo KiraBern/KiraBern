@@ -13,6 +13,7 @@ I know AVR Assembler very well from programming languages, and now I am learning
     The idea is to use the capabilities and the database of this program by connecting AI to them, which ultimately will allow you to get ready-made pumping branches for the given desired end results.
 but i can't do it yet due to poor knowledge of java on which i want to implement it. (Assembler is too confusing in terms of outputting information, and writing simple code will take a long time, unlike java) 
 
+Test line for my friends.
 
 Follow me:
 
